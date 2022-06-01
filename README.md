@@ -2,7 +2,7 @@
 
 Estes es un repositorio de ejemplo con un hola mundo en python.
 
-![Logo de python]([[imagenes\Python-logo.png](https://github.com/lupitaBI06/Ejemplo-python/blob/main/imagenes/Python-logo.png)](https://github.com/lupitaBI06/Ejemplo-python/blob/main/imagenes/Python-logo.png))
+![Logo de python](https://github.com/lupitaBI06/Ejemplo-python/blob/main/imagenes/Python-logo.png)
 
 
 **Requisitos**
